@@ -11,6 +11,7 @@ Target column – BROWSE_NODE_ID
 Train dataset size – 2,903,024
 Number of classes in Train – 9,919
 Overall Test dataset size – 110,775
+
 Dataset: https://s3-ap-southeast-1.amazonaws.com/he-public-data/dataset52a7b21.zip
 
 ## Important Note:
